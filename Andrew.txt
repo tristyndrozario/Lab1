@@ -7,3 +7,4 @@ I then proceeded to git push it as no changes were possibly made which meant tha
 I then proceeded to pull incase a student introduced a change to the git repository.
 After the pull I create the team.txt file and commited it into the repository.
 This then led me to pull again before pushing the file into the repository.
+Create new branch andrew and create team file with my name and merged both branches main and andrew to have the team file available.
