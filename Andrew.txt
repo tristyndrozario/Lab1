@@ -4,3 +4,6 @@ Then I git commited the file into the repository.
 I then proceeded to git branch into the main branch.
 I then proceeded to add the origin of the github by pasting the link in following the command "git remote add origin".
 I then proceeded to git push it as no changes were possibly made which meant that no pull was nessesary. 
+I then proceeded to pull incase a student introduced a change to the git repository.
+After the pull I create the team.txt file and commited it into the repository.
+This then led me to pull again before pushing the file into the repository.
