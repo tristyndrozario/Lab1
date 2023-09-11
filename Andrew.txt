@@ -1,0 +1,6 @@
+I initialized the repository by doing git init.
+I then added the .txt document called "Andrew".
+Then I git commited the file into the repository.
+I then proceeded to git branch into the main branch.
+I then proceeded to add the origin of the github by pasting the link in following the command "git remote add origin".
+I then proceeded to git push it as no changes were possibly made which meant that no pull was nessesary. 
